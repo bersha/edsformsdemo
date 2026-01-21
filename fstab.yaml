@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://author-p31008-e1901057.adobeaemcloud.com/bin/franklin.delivery/bersha/edsformsdemo/main
+  type: "markup"
+  suffix: ".html"
